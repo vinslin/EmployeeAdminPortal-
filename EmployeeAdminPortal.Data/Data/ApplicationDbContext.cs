@@ -17,14 +17,7 @@ namespace EmployeeAdminPortal.Data.Data
 
         public DbSet<User> Users { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Employee>()
-                .HasOne(e => e.Manager)
-                .WithOne(m => m.Employee)
-                .HasForeignKey<Employee>(e => e.ManagerId)
-                .OnDelete(DeleteBehavior.Cascade); // Optional: decide what happens on delete
-        }
+
 
     }
 }

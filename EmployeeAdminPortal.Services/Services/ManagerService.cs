@@ -24,9 +24,9 @@ namespace EmployeeAdminPortal.Services.Services
             return _repository.Add(manager);
         }
 
-        public List<Employee> GetEmployeesByManagerId(Guid id)
+     /*   public List<Employee> GetEmployeesByManagerId(Guid id)
         {
             return _repository.GetEmployeesByManagerId(id);
-        }
+        }*/
     }
 }

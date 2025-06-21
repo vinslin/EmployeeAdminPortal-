@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\showemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\showemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\models\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\models\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|solutionrelative:employeeadminportal.services\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\interfaces\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\interfaces\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.services\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|solutionrelative:employeeadminportal.services\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\migrations\\20250613051525_table creation user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\migrations\\20250613051525_table creation user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\migrations\\20250613092141_initaial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\migrations\\20250613092141_initaial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\migrations\\20250612100301_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\migrations\\20250612100301_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.services\\employeeadminportal.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|solutionrelative:employeeadminportal.services\\employeeadminportal.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\addmanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\addmanagerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\dto\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.services\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EBD6BC-7FF1-4E04-8DE5-2E44F0470792}|EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj|solutionrelative:employeeadminportal.services\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\models\\entities\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\models\\entities\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A85E0FB-7752-4766-B52F-8C1E61D71BDE}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\migrations\\20250612133112_initial one.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\migrations\\20250612133112_initial one.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.entity\\employeeadminportal.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{251DB04F-0C7F-4B59-8A1C-E124F8BE68EC}|EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj|solutionrelative:employeeadminportal.entity\\employeeadminportal.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|c:\\users\\admin\\desktop\\employeeadminportal - copy - copy\\employeeadminportal.data\\employeeadminportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{103F3A16-481F-42C7-8694-CFFF6FDF6E9D}|EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj|solutionrelative:employeeadminportal.data\\employeeadminportal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:54:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAhwFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:50:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Services\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Services\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAhwGYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:03:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Interfaces\\IManagerRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Interfaces\\IManagerRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Interfaces\\IManagerRepository.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Interfaces\\IManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:54:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:02:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Repositories\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Repositories\\ManagerRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Repositories\\ManagerRepository.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Repositories\\ManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:11:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Models\\Entities\\Manager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\Manager.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Models\\Entities\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:24:41.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\RegisterUserDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:00:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:30:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\ShowEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\ShowEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\ShowEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\ShowEmployeeDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:42:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:26:20.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Services\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Services\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:35:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:45:47.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250613092141_initaial migration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250613092141_initaial migration.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Migrations\\20250613092141_initaial migration.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250613092141_initaial migration.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Migrations\\20250613092141_initaial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:45:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250612100301_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250612100301_initial migration.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Migrations\\20250612100301_initial migration.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250612100301_initial migration.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Migrations\\20250612100301_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:54:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:17:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:54:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeAdminPortal.Services",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal.Services\\EmployeeAdminPortal.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T06:01:20.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250613051525_table creation user.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250613051525_table creation user.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Migrations\\20250613051525_table creation user.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250613051525_table creation user.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Migrations\\20250613051525_table creation user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:05:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAArwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:26:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:00:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddManagerDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\AddManagerDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\Dto\\AddManagerDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\Dto\\AddManagerDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\Dto\\AddManagerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:26:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Services\\ManagerService.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Services\\Services\\ManagerService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Services\\Services\\ManagerService.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Services\\Services\\ManagerService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vx0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:03:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\ManagersController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\ManagersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:13:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Models\\Entities\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Models\\Entities\\LoginDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Models\\Entities\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:18:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:50:42.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250612133112_initial one.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250612133112_initial one.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\Migrations\\20250612133112_initial one.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\Migrations\\20250612133112_initial one.Designer.cs",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\Migrations\\20250612133112_initial one.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:05:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeAdminPortal.Entity",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal.Entity\\EmployeeAdminPortal.Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T06:01:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeAdminPortal.Data",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\EmployeeAdminPortal - Copy - Copy\\EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal.Data\\EmployeeAdminPortal.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T06:01:18.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

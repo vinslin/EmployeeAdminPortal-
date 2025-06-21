@@ -9,3 +9,4 @@ C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Ent
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\refint\EmployeeAdminPortal.Entity.dll
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.pdb
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\ref\EmployeeAdminPortal.Entity.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Entity\obj\Debug\net8.0\EmployeeAdminPortal.Entity.sourcelink.json

@@ -19,8 +19,8 @@ namespace EmployeeAdminPortal.Models.Entities
         // Optional foreign key to Manager
         public Guid? ManagerId { get; set; }
 
-        [ForeignKey("ManagerId")]
-        public Manager Manager { get; set; }
+//        [ForeignKey("ManagerId")]
+//        public Manager Manager { get; set; }
 
     }
 }

@@ -1,5 +1,6 @@
 ﻿using EmployeeAdminPortal.Data.Interfaces;
 using EmployeeAdminPortal.Data.Models.Entities;
+using EmployeeAdminPortal.Entity.Dto;
 using EmployeeAdminPortal.Models.Entities;
 
 namespace EmployeeAdminPortal.Services.Services
@@ -95,18 +96,30 @@ namespace EmployeeAdminPortal.Services.Services
                 throw new Exception("Service Error: Failed to delete employee.", ex);
             }
         }
-
-        public List<Employee> GetEmployeesByManager(Guid managerId)
+        public List<ShowEmployeeDto> EmployeesWithManager()
         {
             try
             {
-                return _repo.GetByManagerId(managerId);
+               return  _repo.GetEmployeeWithManagerRepo();
+               
             }
             catch (Exception ex)
             {
-                throw new Exception($"Service Error: Failed to get employees for manager with ID {managerId}.", ex);
+                throw new Exception("Service Error: Failed to delete employee.", ex);
             }
         }
+
+        /*  public List<Employee> GetEmployeesByManager(Guid managerId)
+          {
+              try
+              {
+                  return _repo.GetByManagerId(managerId);
+              }
+              catch (Exception ex)
+              {
+                  throw new Exception($"Service Error: Failed to get employees for manager with ID {managerId}.", ex);
+              }
+          }*/
 
         // 📌 Helper Methods
         private bool IsValidEmail(string email)

@@ -27,13 +27,13 @@ namespace EmployeeAdminPortal.Repositories
             return manager;
         }
 
-        public List<Employee> GetEmployeesByManagerId(Guid managerId)
+     /*   public List<Employee> GetEmployeesByManagerId(Guid managerId)
         {
             return dbContext.Employees
                 .Include(e => e.Manager)
                 .Where(e => e.ManagerId == managerId)
                 .ToList();
-        }
+        }*/
 
     }
 }

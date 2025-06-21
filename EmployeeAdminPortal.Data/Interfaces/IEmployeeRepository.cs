@@ -1,4 +1,5 @@
 ﻿using EmployeeAdminPortal.Data.Models.Entities;
+using EmployeeAdminPortal.Entity.Dto;
 using EmployeeAdminPortal.Models.Entities;
 using System;
 
@@ -11,6 +12,8 @@ namespace EmployeeAdminPortal.Data.Interfaces
         bool Add(Employee employee);
         void Update(Employee employee);
         void Delete(Employee employee);
-        List<Employee> GetByManagerId(Guid managerId);
+        // List<Employee> GetByManagerId(Guid managerId);
+        List<ShowEmployeeDto> GetEmployeeWithManagerRepo();
+
     }
 }

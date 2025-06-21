@@ -7,6 +7,6 @@ namespace EmployeeAdminPortal.Data.Interfaces
     {
         List<Manager> GetAll();
         Manager Add(Manager manager);
-        List<Employee> GetEmployeesByManagerId(Guid managerId);
+    //    List<Employee> GetEmployeesByManagerId(Guid managerId);
     }
 }
