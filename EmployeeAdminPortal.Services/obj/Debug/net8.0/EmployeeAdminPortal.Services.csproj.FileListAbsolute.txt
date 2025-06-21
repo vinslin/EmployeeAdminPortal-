@@ -15,3 +15,4 @@ C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Ser
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\refint\EmployeeAdminPortal.Services.dll
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.pdb
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\ref\EmployeeAdminPortal.Services.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Services\obj\Debug\net8.0\EmployeeAdminPortal.Services.sourcelink.json

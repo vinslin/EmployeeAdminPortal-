@@ -10,3 +10,4 @@ C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Dat
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Data\obj\Debug\net8.0\refint\EmployeeAdminPortal.Data.dll
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Data\obj\Debug\net8.0\EmployeeAdminPortal.Data.pdb
 C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Data\obj\Debug\net8.0\ref\EmployeeAdminPortal.Data.dll
+C:\Users\admin\Desktop\EmployeeAdminPortal - Copy - Copy\EmployeeAdminPortal.Data\obj\Debug\net8.0\EmployeeAdminPortal.Data.sourcelink.json

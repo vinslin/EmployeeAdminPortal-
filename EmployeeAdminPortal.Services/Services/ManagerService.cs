@@ -1,6 +1,6 @@
 ﻿using EmployeeAdminPortal.Data.Interfaces;
-using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+using EmployeeAdminPortal.Data.Models;
+//using EmployeeAdminPortal.Data.Models.Entities;
 
 namespace EmployeeAdminPortal.Services.Services
 {
@@ -24,9 +24,9 @@ namespace EmployeeAdminPortal.Services.Services
             return _repository.Add(manager);
         }
 
-        public List<Employee> GetEmployeesByManagerId(Guid id)
+       /* public List<Employee> GetEmployeesByManagerId(Guid id)
         {
             return _repository.GetEmployeesByManagerId(id);
-        }
+        }*/
     }
 }

@@ -1,5 +1,5 @@
-﻿using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+﻿using EmployeeAdminPortal.Data.Models;
+
 using System;
 
 namespace EmployeeAdminPortal.Data.Interfaces

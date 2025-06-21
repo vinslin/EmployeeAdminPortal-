@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EmployeeAdminPortal.Models.Entities
+namespace EmployeeAdminPortal.Data.Models
 {
     public class Manager
     {
@@ -9,7 +9,7 @@ namespace EmployeeAdminPortal.Models.Entities
 
         public required string Name { get; set; } = string.Empty;
 
-        // Optional: Navigation - list of employees under this manager
-        public Employee? Employee { get; set; }
+
+
     }
 }
