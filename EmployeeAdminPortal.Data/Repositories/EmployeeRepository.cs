@@ -1,7 +1,7 @@
 ﻿using EmployeeAdminPortal.Data.Data;
 using EmployeeAdminPortal.Data.Interfaces;
-using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+using EmployeeAdminPortal.Data.Models;
+
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeAdminPortal.Data.Repositories
@@ -21,7 +21,7 @@ namespace EmployeeAdminPortal.Data.Repositories
 
             try
             {
-                return dbContext.Employees.Include(e => e.Manager).ToList();
+                return dbContext.Employees.ToList();
             }
             catch (Exception ex) { 
                 throw new Exception("problem in GetALL() orgin",ex); 

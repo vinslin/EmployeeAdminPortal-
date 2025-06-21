@@ -1,6 +1,6 @@
 ﻿using EmployeeAdminPortal.Data.Interfaces;
-using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+using EmployeeAdminPortal.Data.Models;
+//using EmployeeAdminPortal.Data.Models.Entities;
 
 namespace EmployeeAdminPortal.Services.Services
 {

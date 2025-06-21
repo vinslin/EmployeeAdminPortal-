@@ -1,5 +1,4 @@
-﻿using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+﻿using EmployeeAdminPortal.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeAdminPortal.Data.Data
@@ -16,15 +15,6 @@ namespace EmployeeAdminPortal.Data.Data
         public DbSet<Manager> Managers { get; set; }
 
         public DbSet<User> Users { get; set; }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Employee>()
-                .HasOne(e => e.Manager)
-                .WithOne(m => m.Employee)
-                .HasForeignKey<Employee>(e => e.ManagerId)
-                .OnDelete(DeleteBehavior.Cascade); // Optional: decide what happens on delete
-        }
 
     }
 }

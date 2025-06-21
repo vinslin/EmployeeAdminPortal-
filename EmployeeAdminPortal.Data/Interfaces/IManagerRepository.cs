@@ -1,5 +1,5 @@
-﻿using EmployeeAdminPortal.Data.Models.Entities;
-using EmployeeAdminPortal.Models.Entities;
+﻿using EmployeeAdminPortal.Data.Models;
+
 
 namespace EmployeeAdminPortal.Data.Interfaces
 {
@@ -7,6 +7,6 @@ namespace EmployeeAdminPortal.Data.Interfaces
     {
         List<Manager> GetAll();
         Manager Add(Manager manager);
-        List<Employee> GetEmployeesByManagerId(Guid managerId);
+        //List<Employee> GetEmployeesByManagerId(Guid managerId);
     }
 }

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace EmployeeAdminPortal.Data.Models.Entities
+namespace EmployeeAdminPortal.Data.Models
 {
     public class User
     {
