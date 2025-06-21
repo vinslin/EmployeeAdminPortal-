@@ -42,7 +42,7 @@ namespace EmployeeAdminPortal.Services.Services
         {
             try
             {
-                if (!IsValidEmail(employee.Email))
+             /*   if (!IsValidEmail(employee.Email))
                 {
                     return "Invalid email format.";
                 }
@@ -50,7 +50,8 @@ namespace EmployeeAdminPortal.Services.Services
                 if (!IsValidPhoneNumber(employee.Phone))
                 {
                     return "Invalid phone number. It must be exactly 10 digits.";
-                }
+                } 
+             */
 
                 var existingEmployees = _repo.GetAll();
 

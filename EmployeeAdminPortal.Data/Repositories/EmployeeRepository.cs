@@ -72,6 +72,15 @@ namespace EmployeeAdminPortal.Data.Repositories
                 .ToList();
             return result;
         }
+        public bool EmailExists(string email)
+        {
+            return dbContext.Employees.Any(e => e.Email == email);
+        }
+
+        public bool PhoneExists(string phone)
+        {
+            return dbContext.Employees.Any(e => e.Phone == phone);
+        }
 
     }
 }
